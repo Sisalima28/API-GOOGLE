@@ -1,0 +1,17 @@
+{
+    "name": "run-crud",
+    "description": "CRUD operations over book data",
+    "license": "Apache-2.0",
+    "engines": {
+        "node": ">= 20.0.0"
+    },
+    "dependencies": {
+        "@google-cloud/firestore": "^4.15.1",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "isbn3": "^1.1.10"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}

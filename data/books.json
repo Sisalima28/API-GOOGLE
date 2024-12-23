@@ -1,0 +1,802 @@
+[
+  {
+    "isbn": "9780435272463",
+    "author": "Chinua Achebe",
+    "language": "English",
+    "pages": 209,
+    "title": "Things Fall Apart",
+    "year": 1958
+  },
+  {
+    "isbn": "9781414251196",
+    "author": "Hans Christian Andersen",
+    "language": "Danish",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1836
+  },
+  {
+    "isbn": "9781420926415",
+    "author": "Dante Alighieri",
+    "language": "Italian",
+    "pages": 928,
+    "title": "The Divine Comedy",
+    "year": 1315
+  },
+  {
+    "isbn": "9780140863871",
+    "author": "Unknown",
+    "language": "Akkadian",
+    "pages": 160,
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700
+  },
+  {
+    "isbn": "9781521728772",
+    "author": "Unknown",
+    "language": "Hebrew",
+    "pages": 176,
+    "title": "The Book Of Job",
+    "year": -600
+  },
+  {
+    "isbn": "9780192745002",
+    "author": "Unknown",
+    "language": "Arabic",
+    "pages": 288,
+    "title": "One Thousand and One Nights",
+    "year": 1200
+  },
+  {
+    "isbn": "9788252143041",
+    "author": "Unknown",
+    "language": "Old Norse",
+    "pages": 384,
+    "title": "Nj\u00e1l's Saga",
+    "year": 1350
+  },
+  {
+    "isbn": "9781450512251",
+    "author": "Jane Austen",
+    "language": "English",
+    "pages": 226,
+    "title": "Pride and Prejudice",
+    "year": 1813
+  },
+  {
+    "isbn": "9780393971668",
+    "author": "Honor\u00e9 de Balzac",
+    "language": "French",
+    "pages": 443,
+    "title": "Le P\u00e8re Goriot",
+    "year": 1835
+  },
+  {
+    "isbn": "9780802141286",
+    "author": "Samuel Beckett",
+    "language": "French, English",
+    "pages": 256,
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "year": 1952
+  },
+  {
+    "isbn": "9780140449303",
+    "author": "Giovanni Boccaccio",
+    "language": "Italian",
+    "pages": 1024,
+    "title": "The Decameron",
+    "year": 1351
+  },
+  {
+    "isbn": "9780245528798",
+    "author": "Jorge Luis Borges",
+    "language": "Spanish",
+    "pages": 224,
+    "title": "Ficciones",
+    "year": 1965
+  },
+  {
+    "isbn": "9780140430011",
+    "author": "Emily Bront\u00eb",
+    "language": "English",
+    "pages": 342,
+    "title": "Wuthering Heights",
+    "year": 1847
+  },
+  {
+    "isbn": "9780394533056",
+    "author": "Albert Camus",
+    "language": "French",
+    "pages": 185,
+    "title": "The Stranger",
+    "year": 1942
+  },
+  {
+    "isbn": "9780856462658",
+    "author": "Paul Celan",
+    "language": "German",
+    "pages": 320,
+    "title": "Poems",
+    "year": 1952
+  },
+  {
+    "isbn": "9780714541396",
+    "author": "Louis-Ferdinand C\u00e9line",
+    "language": "French",
+    "pages": 505,
+    "title": "Journey to the End of the Night",
+    "year": 1932
+  },
+  {
+    "isbn": "9780192741820",
+    "author": "Miguel de Cervantes",
+    "language": "Spanish",
+    "pages": 1056,
+    "title": "Don Quijote De La Mancha",
+    "year": 1610
+  },
+  {
+    "isbn": "9780192741813",
+    "author": "Geoffrey Chaucer",
+    "language": "English",
+    "pages": 544,
+    "title": "The Canterbury Tales",
+    "year": 1450
+  },
+  {
+    "isbn": "9781498087988",
+    "author": "Anton Chekhov",
+    "language": "Russian",
+    "pages": 194,
+    "title": "Stories",
+    "year": 1886
+  },
+  {
+    "isbn": "9780141441634",
+    "author": "Joseph Conrad",
+    "language": "English",
+    "pages": 320,
+    "title": "Nostromo",
+    "year": 1904
+  },
+  {
+    "isbn": "9780141439563",
+    "author": "Charles Dickens",
+    "language": "English",
+    "pages": 194,
+    "title": "Great Expectations",
+    "year": 1861
+  },
+  {
+    "isbn": "9780192838742",
+    "author": "Denis Diderot",
+    "language": "French",
+    "pages": 596,
+    "title": "Jacques the Fatalist",
+    "year": 1796
+  },
+  {
+    "isbn": "9783150098103",
+    "author": "Alfred D\u00f6blin",
+    "language": "German",
+    "pages": 600,
+    "title": "Berlin Alexanderplatz",
+    "year": 1929
+  },
+  {
+    "isbn": "9780140449136",
+    "author": "Fyodor Dostoevsky",
+    "language": "Russian",
+    "pages": 551,
+    "title": "Crime and Punishment",
+    "year": 1866
+  },
+  {
+    "isbn": "9780679642428",
+    "author": "Fyodor Dostoevsky",
+    "language": "Russian",
+    "pages": 656,
+    "title": "The Idiot",
+    "year": 1869
+  },
+  {
+    "isbn": "9780679734512",
+    "author": "Fyodor Dostoevsky",
+    "language": "Russian",
+    "pages": 768,
+    "title": "The Possessed",
+    "year": 1872
+  },
+  {
+    "isbn": "9780451530608",
+    "author": "Fyodor Dostoevsky",
+    "language": "Russian",
+    "pages": 824,
+    "title": "The Brothers Karamazov",
+    "year": 1880
+  },
+  {
+    "isbn": "9780003701302",
+    "author": "George Eliot",
+    "language": "English",
+    "pages": 800,
+    "title": "Middlemarch",
+    "year": 1871
+  },
+  {
+    "isbn": "9780141184425",
+    "author": "Ralph Ellison",
+    "language": "English",
+    "pages": 581,
+    "title": "Invisible Man",
+    "year": 1952
+  },
+  {
+    "isbn": "9780195145663",
+    "author": "Euripides",
+    "language": "Greek",
+    "pages": 104,
+    "title": "Medea",
+    "year": -431
+  },
+  {
+    "isbn": "9781408183915",
+    "author": "William Faulkner",
+    "language": "English",
+    "pages": 313,
+    "title": "Absalom, Absalom!",
+    "year": 1936
+  },
+  {
+    "isbn": "9780140020878",
+    "author": "William Faulkner",
+    "language": "English",
+    "pages": 326,
+    "title": "The Sound and the Fury",
+    "year": 1929
+  },
+  {
+    "isbn": "9780192815644",
+    "author": "Gustave Flaubert",
+    "language": "French",
+    "pages": 528,
+    "title": "Madame Bovary",
+    "year": 1857
+  },
+  {
+    "isbn": "9782070361472",
+    "author": "Gustave Flaubert",
+    "language": "French",
+    "pages": 606,
+    "title": "Sentimental Education",
+    "year": 1869
+  },
+  {
+    "isbn": "9780719017247",
+    "author": "Federico Garc\u00eda Lorca",
+    "language": "Spanish",
+    "pages": 218,
+    "title": "Gypsy Ballads",
+    "year": 1928
+  },
+  {
+    "isbn": "9780060929794",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "language": "Spanish",
+    "pages": 417,
+    "title": "One Hundred Years of Solitude",
+    "year": 1967
+  },
+  {
+    "isbn": "9780140119909",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "language": "Spanish",
+    "pages": 368,
+    "title": "Love in the Time of Cholera",
+    "year": 1985
+  },
+  {
+    "isbn": "9780393044249",
+    "author": "Johann Wolfgang von Goethe",
+    "language": "German",
+    "pages": 158,
+    "title": "Faust",
+    "year": 1832
+  },
+  {
+    "isbn": "9780679776444",
+    "author": "Nikolai Gogol",
+    "language": "Russian",
+    "pages": 432,
+    "title": "Dead Souls",
+    "year": 1842
+  },
+  {
+    "isbn": "9780394703008",
+    "author": "G\u00fcnter Grass",
+    "language": "German",
+    "pages": 600,
+    "title": "The Tin Drum",
+    "year": 1959
+  },
+  {
+    "isbn": "9788535931983",
+    "author": "Jo\u00e3o Guimar\u00e3es Rosa",
+    "language": "Portuguese",
+    "pages": 494,
+    "title": "The Devil to Pay in the Backlands",
+    "year": 1956
+  },
+  {
+    "isbn": "9780857861795",
+    "author": "Knut Hamsun",
+    "language": "Norwegian",
+    "pages": 176,
+    "title": "Hunger",
+    "year": 1890
+  },
+  {
+    "isbn": "9780020519102",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "pages": 128,
+    "title": "The Old Man and the Sea",
+    "year": 1952
+  },
+  {
+    "isbn": "9780141394657",
+    "author": "Homer",
+    "language": "Greek",
+    "pages": 608,
+    "title": "Iliad",
+    "year": -735
+  },
+  {
+    "isbn": "9788420677507",
+    "author": "Homer",
+    "language": "Greek",
+    "pages": 374,
+    "title": "Odyssey",
+    "year": -800
+  },
+  {
+    "isbn": "9781408173312",
+    "author": "Henrik Ibsen",
+    "language": "Norwegian",
+    "pages": 68,
+    "title": "A Doll's House",
+    "year": 1879
+  },
+  {
+    "isbn": "9780140181050",
+    "author": "James Joyce",
+    "language": "English",
+    "pages": 228,
+    "title": "Ulysses",
+    "year": 1922
+  },
+  {
+    "isbn": "9780805204230",
+    "author": "Franz Kafka",
+    "language": "German",
+    "pages": 488,
+    "title": "Stories",
+    "year": 1924
+  },
+  {
+    "isbn": "9780805210408",
+    "author": "Franz Kafka",
+    "language": "German",
+    "pages": 160,
+    "title": "The Trial",
+    "year": 1925
+  },
+  {
+    "isbn": "9780199238286",
+    "author": "Franz Kafka",
+    "language": "German",
+    "pages": 352,
+    "title": "The Castle",
+    "year": 1926
+  },
+  {
+    "isbn": "9780199540600",
+    "author": "K\u0101lid\u0101sa",
+    "language": "Sanskrit",
+    "pages": 147,
+    "title": "The recognition of Shakuntala",
+    "year": 150
+  },
+  {
+    "isbn": "9780399505270",
+    "author": "Yasunari Kawabata",
+    "language": "Japanese",
+    "pages": 288,
+    "title": "The Sound of the Mountain",
+    "year": 1954
+  },
+  {
+    "isbn": "9780571052653",
+    "author": "Nikos Kazantzakis",
+    "language": "Greek",
+    "pages": 368,
+    "title": "Zorba the Greek",
+    "year": 1946
+  },
+  {
+    "isbn": "9780003701203",
+    "author": "D. H. Lawrence",
+    "language": "English",
+    "pages": 432,
+    "title": "Sons and Lovers",
+    "year": 1913
+  },
+  {
+    "isbn": "9788475066103",
+    "author": "Halld\u00f3r Laxness",
+    "language": "Icelandic",
+    "pages": 470,
+    "title": "Independent People",
+    "year": 1934
+  },
+  {
+    "isbn": "9788806133030",
+    "author": "Giacomo Leopardi",
+    "language": "Italian",
+    "pages": 184,
+    "title": "Poems",
+    "year": 1818
+  },
+  {
+    "isbn": "9780060975906",
+    "author": "Doris Lessing",
+    "language": "English",
+    "pages": 688,
+    "title": "The Golden Notebook",
+    "year": 1962
+  },
+  {
+    "isbn": "9780593117828",
+    "author": "Astrid Lindgren",
+    "language": "Swedish",
+    "pages": 160,
+    "title": "Pippi Longstocking",
+    "year": 1945
+  },
+  {
+    "isbn": "9781544869032",
+    "author": "Lu Xun",
+    "language": "Chinese",
+    "pages": 389,
+    "title": "Diary of a Madman",
+    "year": 1918
+  },
+  {
+    "isbn": "9780894106545",
+    "author": "Naguib Mahfouz",
+    "language": "Arabic",
+    "pages": 355,
+    "title": "Children of Gebelawi",
+    "year": 1959
+  },
+  {
+    "isbn": "9780679736462",
+    "author": "Thomas Mann",
+    "language": "German",
+    "pages": 736,
+    "title": "Buddenbrooks",
+    "year": 1901
+  },
+  {
+    "isbn": "9780749386429",
+    "author": "Thomas Mann",
+    "language": "German",
+    "pages": 720,
+    "title": "The Magic Mountain",
+    "year": 1924
+  },
+  {
+    "isbn": "9780393972832",
+    "author": "Herman Melville",
+    "language": "English",
+    "pages": 378,
+    "title": "Moby Dick",
+    "year": 1851
+  },
+  {
+    "isbn": "9780485138108",
+    "author": "Michel de Montaigne",
+    "language": "French",
+    "pages": 404,
+    "title": "Essays",
+    "year": 1595
+  },
+  {
+    "isbn": "9788806136659",
+    "author": "Elsa Morante",
+    "language": "Italian",
+    "pages": 600,
+    "title": "History",
+    "year": 1974
+  },
+  {
+    "isbn": "9780099511656",
+    "author": "Toni Morrison",
+    "language": "English",
+    "pages": 321,
+    "title": "Beloved",
+    "year": 1987
+  },
+  {
+    "isbn": "9780393353396",
+    "author": "Murasaki Shikibu",
+    "language": "Japanese",
+    "pages": 1360,
+    "title": "The Tale of Genji",
+    "year": 1006
+  },
+  {
+    "isbn": "9783498092757",
+    "author": "Robert Musil",
+    "language": "German",
+    "pages": 365,
+    "title": "The Man Without Qualities",
+    "year": 1931
+  },
+  {
+    "isbn": "9780140108088",
+    "author": "Vladimir Nabokov",
+    "language": "English",
+    "pages": 317,
+    "title": "Lolita",
+    "year": 1955
+  },
+  {
+    "isbn": "9780140278774",
+    "author": "George Orwell",
+    "language": "English",
+    "pages": 272,
+    "title": "Nineteen Eighty-Four",
+    "year": 1949
+  },
+  {
+    "isbn": "9780198146667",
+    "author": "Ovid",
+    "language": "Classical Latin",
+    "pages": 576,
+    "title": "Metamorphoses",
+    "year": 100
+  },
+  {
+    "isbn": "9780141183046",
+    "author": "Fernando Pessoa",
+    "language": "Portuguese",
+    "pages": 272,
+    "title": "The Book of Disquiet",
+    "year": 1928
+  },
+  {
+    "isbn": "9781443774529",
+    "author": "Edgar Allan Poe",
+    "language": "English",
+    "pages": 842,
+    "title": "Tales",
+    "year": 1950
+  },
+  {
+    "isbn": "9780330375764",
+    "author": "Marcel Proust",
+    "language": "French",
+    "pages": 2408,
+    "title": "In Search of Lost Time",
+    "year": 1920
+  },
+  {
+    "isbn": "9788437616926",
+    "author": "Fran\u00e7ois Rabelais",
+    "language": "French",
+    "pages": 623,
+    "title": "Gargantua and Pantagruel",
+    "year": 1533
+  },
+  {
+    "isbn": "9780292771215",
+    "author": "Juan Rulfo",
+    "language": "Spanish",
+    "pages": 124,
+    "title": "Pedro P\u00e1ramo",
+    "year": 1955
+  },
+  {
+    "isbn": "9780198783435",
+    "author": "Rumi",
+    "language": "Persian",
+    "pages": 438,
+    "title": "The Masnavi",
+    "year": 1236
+  },
+  {
+    "isbn": "9780099535096",
+    "author": "Salman Rushdie",
+    "language": "English",
+    "pages": 536,
+    "title": "Midnight's Children",
+    "year": 1981
+  },
+  {
+    "isbn": "9786257895149",
+    "author": "Saadi",
+    "language": "Persian",
+    "pages": 298,
+    "title": "Bostan",
+    "year": 1257
+  },
+  {
+    "isbn": "9781590173022",
+    "author": "Tayeb Salih",
+    "language": "Arabic",
+    "pages": 139,
+    "title": "Season of Migration to the North",
+    "year": 1966
+  },
+  {
+    "isbn": "9780156035583",
+    "author": "Jos\u00e9 Saramago",
+    "language": "Portuguese",
+    "pages": 352,
+    "title": "Blindness",
+    "year": 1995
+  },
+  {
+    "isbn": "9780198129103",
+    "author": "William Shakespeare",
+    "language": "English",
+    "pages": 432,
+    "title": "Hamlet",
+    "year": 1603
+  },
+  {
+    "isbn": "9780141012292",
+    "author": "William Shakespeare",
+    "language": "English",
+    "pages": 384,
+    "title": "King Lear",
+    "year": 1608
+  },
+  {
+    "isbn": "9780141012315",
+    "author": "William Shakespeare",
+    "language": "English",
+    "pages": 314,
+    "title": "Othello",
+    "year": 1609
+  },
+  {
+    "isbn": "9780671543112",
+    "author": "Sophocles",
+    "language": "Greek",
+    "pages": 88,
+    "title": "Oedipus the King",
+    "year": -430
+  },
+  {
+    "isbn": "9782070412396",
+    "author": "Stendhal",
+    "language": "French",
+    "pages": 576,
+    "title": "The Red and the Black",
+    "year": 1830
+  },
+  {
+    "isbn": "9780395051450",
+    "author": "Laurence Sterne",
+    "language": "English",
+    "pages": 640,
+    "title": "The Life And Opinions of Tristram Shandy",
+    "year": 1760
+  },
+  {
+    "isbn": "9780598180278",
+    "author": "Italo Svevo",
+    "language": "Italian",
+    "pages": 412,
+    "title": "Confessions of Zeno",
+    "year": 1923
+  },
+  {
+    "isbn": "9780140437348",
+    "author": "Jonathan Swift",
+    "language": "English",
+    "pages": 178,
+    "title": "Gulliver's Travels",
+    "year": 1726
+  },
+  {
+    "isbn": "9780393966473",
+    "author": "Leo Tolstoy",
+    "language": "Russian",
+    "pages": 1296,
+    "title": "War and Peace",
+    "year": 1867
+  },
+  {
+    "isbn": "9780198748847",
+    "author": "Leo Tolstoy",
+    "language": "Russian",
+    "pages": 864,
+    "title": "Anna Karenina",
+    "year": 1877
+  },
+  {
+    "isbn": "9781609421359",
+    "author": "Leo Tolstoy",
+    "language": "Russian",
+    "pages": 92,
+    "title": "The Death of Ivan Ilyich",
+    "year": 1886
+  },
+  {
+    "isbn": "9780486280615",
+    "author": "Mark Twain",
+    "language": "English",
+    "pages": 224,
+    "title": "The Adventures of Huckleberry Finn",
+    "year": 1884
+  },
+  {
+    "isbn": "9780670084180",
+    "author": "Valmiki",
+    "language": "Sanskrit",
+    "pages": 152,
+    "title": "Ramayana",
+    "year": -450
+  },
+  {
+    "isbn": "9781585102259",
+    "author": "Virgil",
+    "language": "Classical Latin",
+    "pages": 442,
+    "title": "The Aeneid",
+    "year": -23
+  },
+  {
+    "isbn": "9780143100133",
+    "author": "Vyasa",
+    "language": "Sanskrit",
+    "pages": 276,
+    "title": "Mahabharata",
+    "year": -700
+  },
+  {
+    "isbn": "9780451504562",
+    "author": "Walt Whitman",
+    "language": "English",
+    "pages": 152,
+    "title": "Leaves of Grass",
+    "year": 1855
+  },
+  {
+    "isbn": "9780192834300",
+    "author": "Virginia Woolf",
+    "language": "English",
+    "pages": 216,
+    "title": "Mrs Dalloway",
+    "year": 1925
+  },
+  {
+    "isbn": "9780192805607",
+    "author": "Virginia Woolf",
+    "language": "English",
+    "pages": 209,
+    "title": "To the Lighthouse",
+    "year": 1927
+  },
+  {
+    "isbn": "9782070369218",
+    "author": "Marguerite Yourcenar",
+    "language": "French",
+    "pages": 408,
+    "title": "Memoirs of Hadrian",
+    "year": 1951
+  }
+]
